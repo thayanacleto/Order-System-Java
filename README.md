@@ -21,7 +21,7 @@ Este projeto é um mini sistema de pedidos implementado em Java, focado em:
 
 ## Exemplo de execução
 
-```text
+```
 Status inicial: PENDING
 Total inicial: 0.0
 Total depois do item 50: 50.0
@@ -29,5 +29,14 @@ Total depois do item 100: 150.0
 Price must be greater than zero
 Status depois do pagamento: PAID
 Pedido já foi pago ou cancelado
-`````
+````
+
+## Observação 
+
+
+---
+
+**Observação:**  
+Este projeto serve como estudo prático de Java, OO e tratamento de exceções, ideal para portfólio acadêmico ou pessoal.
+
 
